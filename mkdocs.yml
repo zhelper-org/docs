@@ -17,3 +17,5 @@ markdown_extensions:
   - pymdownx.superfences
 
 nav:
+  - zhelper V4 使用教程: v4/index.md
+  - zhelper V5 使用教程: v5/index.md 
