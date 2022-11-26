@@ -19,3 +19,4 @@ markdown_extensions:
 nav:
   - zhelper V4 使用教程: v4/index.md
   - zhelper V5 使用教程: v5/index.md 
+  - 秒传图文教程: mc/index.md 
