@@ -2,6 +2,9 @@
 
 zhelper 是一个电子书检索工具，其数据库主要来自 z-library，目前也有来自其他书源的一些内容。请注意，我们仅仅储存和索引书籍的基本信息，并不存储任何一本电子书。但是，本站的检索结果可以帮助您在去中心化文件网络中快速找到您需要的书。
 
+## 快速开始
+
+
 !!! tip "zhelper V4 & V5"
 
     目前，zhelper V1-V3 版本已经暂停使用。 V4、V5 版本目前可用。区别在于：
@@ -9,7 +12,6 @@ zhelper 是一个电子书检索工具，其数据库主要来自 z-library，�
     - V4 接入了 z-library 的 API 接口。所有查询结果和文件数据均直接从 z-library 服务器下载。从步骤上来说比较接近原来的 z-library 使用方式。
     - V5 完全独立于 z-library 存在。我们有单独的服务器存储书籍索引，而所有具体书籍均来自于网络上的去中心化文件网络。这是更加安全可持续的方式
 
-## 快速开始
 
 以下两篇教程将带您开始使用 zhelper V4 和 V5
 
@@ -18,7 +20,7 @@ zhelper 是一个电子书检索工具，其数据库主要来自 z-library，�
 
 这里收集了除 zhelper 以外的 z-library 下载方式
 
-- 14 种 “复活” zlib 的方法
+- [14 种 “复活” zlib 的方法](https://bbs.yibook.org/d/381-z-library-shi-yong-jiao-cheng-hui-zong-zheng-ji-jiao-cheng-zhong/9)
 
 !!! info "关于 zhelper 的不同版本"
 
