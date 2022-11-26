@@ -22,6 +22,8 @@ zhelper 是一个电子书检索工具，其数据库主要来自 z-library，�
 
 - [14 种 “复活” zlib 的方法](https://bbs.yibook.org/d/381-z-library-shi-yong-jiao-cheng-hui-zong-zheng-ji-jiao-cheng-zhong/9)
 
+## 说明
+
 !!! info "关于 zhelper 的不同版本"
 
     总的来说，zhelper 目前为止共有 5 个版本
