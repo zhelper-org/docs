@@ -15,8 +15,8 @@ zhelper 是一个电子书检索工具，其数据库主要来自 z-library，�
 
 以下两篇教程将带您开始使用 zhelper V4 和 V5
 
-- zhelper V4 使用教程
-- zhelper V5 使用教程
+- [zhelper V4 使用教程（撰写中）](/v4)
+- [zhelper V5 使用教程](/v5)
 
 这里收集了除 zhelper 以外的 z-library 下载方式
 
@@ -38,8 +38,8 @@ zhelper 是一个电子书检索工具，其数据库主要来自 z-library，�
 
     为了方便大家寻找、交流电子书，除了 zhelper 外，我们还建立了一系列网站、群组：
 
-    - ss.zhelper.net ss 号检索，独立于 z-library 的中文书库。
-    - nav.yibook.org 精选电子书网站导航与快速切换搜索。
-    - bbs.yibook.org 易书论坛，交流与讨论。
-    - yibook.org 一些关于电子书下载的笔记。
-    - ylibrary.org z-library 备份计划。
+    - [zhelper ss](https://ss.zhelper.net/) ss 号检索，独立于 z-library 的中文书库。
+    - [易书导航](https://nav.yibook.org/) 精选电子书网站导航与快速切换搜索。
+    - [易书论坛](https://bbs.yibook.org/) 电子书交流与讨论。
+    <!-- - yibook.org 一些关于电子书下载的笔记。
+    - ylibrary.org z-library 备份计划。 -->
