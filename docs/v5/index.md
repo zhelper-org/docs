@@ -1,4 +1,4 @@
-zhelper V5 网页链接：https://node1.v5.zhelper.net/
+[zhelper V5 网页直达](https://node1.v5.zhelper.net/)
 
 ## 搜索
 
