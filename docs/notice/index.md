@@ -1,6 +1,6 @@
 # 关于 zhelper 业务调整的说明
 
-基于安全、用户体验、维护成本等多方面的考虑，我们决定停止对旧版网站的维护，请您迁移到新版 zhelper search。
+基于安全、用户体验、维护成本等多方面的考虑，**我们决定停止对旧版网站 zhelper V4、V5 的维护，请您迁移到新版 zhelper search。**
 
 [您可以在这里读到更多 zhelper search 相关信息](/search)
 
