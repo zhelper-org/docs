@@ -8,7 +8,9 @@ zhelper search 的地址是：https://search.zhelper.net/
 
 ## 自动配置接口（建议）
 
-您可以在易书论坛或者易书导航等网站找到预先配置好的链接地址。直接访问即可。
+https://tool.yibook.org/
+
+<!-- 您可以在易书论坛或者易书导航等网站找到预先配置好的链接地址。直接访问即可。
 
 以易书导航为例，首先打开[网站](https://nav.yibook.org/)（网址：https://nav.yibook.org/），找到 zhelper search 然后选择“直接访问”，如下图所示：
 
@@ -21,7 +23,7 @@ zhelper search 的地址是：https://search.zhelper.net/
 
 手机版点击右上角展开再选择。
 
-![](./uTools_1671798814508.png) 
+![](./uTools_1671798814508.png)  -->
 
 ## 手动配置接口（进阶）
 
