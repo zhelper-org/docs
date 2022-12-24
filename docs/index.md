@@ -1,8 +1,10 @@
 # 关于 zhelper 业务调整的说明
 
-基于安全、用户体验、维护成本等多方面的考虑，我们决定停止对旧版网站的维护，请您迁移到新版 zhelper search。
+### 基于安全、用户体验、维护成本等多方面的考虑，我们决定停止对旧版网站的维护，请您迁移到新版 zhelper search。
 
-[您可以在这里读到更多 zhelper search 相关信息](/search)
+### 新版较原版门槛更高，可能需要仔细看教程才能上手。这也是出于安全考虑。如果您觉得不好用、用不了，可以不用。
+
+[zhelper search 教程](/search)
 
 ## zhelper search 与 zhelper V4、V5 的区别
 
@@ -10,8 +12,6 @@
 - zhelper search 是**一个“全能的网站”**：zhelper search 兼容多个搜索接口，包括之前的 V4、V5 搜索接口，也包括更多其他（符合API规范的）搜索接口。
 - zhelper search **必须要配置才能使用**：您**必须**告诉 zhelper search 用哪个搜索接口，zhelper search 才能工作。
 - zhelper search 是一个**很简单的网站**：它所做的唯一的事情就是——把您的搜索的关键词发给搜索接口，然后把搜索接口返回的结果整理成人类可以阅读的形式展现出来。
-
-[关于 zhelper search 的具体使用请参考本文](/search)
 
 ## 之后 zhelper V4、V5 还会维护吗？
 
