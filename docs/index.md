@@ -4,7 +4,7 @@
 
 ### 新版较原版门槛更高，可能需要仔细看教程才能上手。这也是出于安全考虑。如果您觉得不好用、用不了，可以不用。
 
-[zhelper search 教程](/search)
+## [zhelper search 教程](/search)
 
 ## zhelper search 与 zhelper V4、V5 的区别
 
