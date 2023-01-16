@@ -1,4 +1,12 @@
-## 说明
+
+zhelper search 需要搭配搜索接口食用。目前收集到的接口包括：
+
+- [zlib.app](https://zlib.app/)：zlibrary 的在线接口。
+- [bookpan.net](https://bookpan.net/)：布克盘，聚合搜书接口。
+- [ylibrary.org](https://ylibrary.org/)：Ylibrary 去中心化图书馆接口，整合了 zlib 和 superlib 的资源。
+
+
+## 关于无可用接口的说明
 
 zhelper search 的地址是：https://search.zhelper.net/
 
@@ -6,9 +14,9 @@ zhelper search 的地址是：https://search.zhelper.net/
 
 ![](./uTools_1671797022286.png) 
 
-## 如何寻找接口
+## 如何寻找更多接口
 
-出于安全考虑，请您自行在网上搜索相关接口内容。
+目前我们所收集的接口数据肯定不是非常全面。关于其他接口，请您自行在网上搜索相关内容。如果您有好的接口，也欢迎在 TG 中向我们提出。
 
 [在 Bing 中搜索](https://cn.bing.com/search?q=zhelper+search+%E9%85%8D%E7%BD%AE) 
 
